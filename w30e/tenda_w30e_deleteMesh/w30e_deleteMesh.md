@@ -1,8 +1,8 @@
-# Tenda AX3 Stack Overflow
+# Tenda W30E Stack Overflow
 
 **Vender** ：Tenda
 
-**Firmware version**:V16.03.12.11
+**Firmware version**:V16.01.0.12(4843)
 
 **Exploit Author**: GD@hillstone
 
