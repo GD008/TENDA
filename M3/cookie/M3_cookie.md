@@ -12,7 +12,7 @@
 
 ## POC
 
-httpd in directory `/bin` has a stack overflow vulnerability. The vulnerability occurrs in the `formRebootMeshNode` function, which can be accessed via anything url.
+httpd in directory `/bin` has a stack overflow vulnerability. The vulnerability occurrs in the `R7WebsSecurityHandler` function, which can be accessed via anything url.
 
 ![1](./1.jpg)
 
